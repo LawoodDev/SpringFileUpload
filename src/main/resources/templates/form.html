@@ -1,0 +1,23 @@
+<!DOCTYPE html SYSTEM "http://www.thymeleaf.org/dtd/xhtml1-strict-thymeleaf-4.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <title>Good Thymes Virtual Grocery</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+
+<body>
+    <form method="post" enctype="multipart/form-data" action="/user/create" th:object="${newUser}">
+        <label for="userName">Username</label>
+        <input type="text" name="userName" id="userName" th:field="*{name}">
+
+        <label for="avatar">Avatar</label>
+        <input type="file" name="avatar" id="avatar" th:field="*{avatar}">
+        <input type="submit" value="Upload">
+    </form>
+
+</body>
+
+</html>
