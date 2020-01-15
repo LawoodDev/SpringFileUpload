@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="661dd6ed-f058-4af0-b23c-7cca88dedaf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/springfileupload/app/controller/AppController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/springfileupload/app/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/springfileupload/app/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/springfileupload/app/storage/FileSystemStorageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/springfileupload/app/storage/StorageException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/springfileupload/app/storage/StorageFileNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/springfileupload/app/storage/StorageProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/wildcodeschool/springfileupload/app/storage/StorageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,12 +98,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579072720023</updated>
-      <workItem from="1579072871785" duration="4071000" />
+      <workItem from="1579072871785" duration="4313000" />
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <created>1579077018479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579077018479</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tss">
+      <created>1579077173875</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579077173875</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <MESSAGE value="tss" />
+    <option name="LAST_COMMIT_MESSAGE" value="tss" />
   </component>
   <component name="WindowStateProjectService">
     <state x="164" y="161" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579074686326">
@@ -125,10 +134,10 @@
       <screen x="0" y="0" width="1400" height="1005" />
     </state>
     <state x="513" y="190" key="#com.intellij.ide.util.MemberChooser/0.0.1400.1005@0.0.1400.1005" timestamp="1579076501387" />
-    <state x="302" y="99" key="CommitChangelistDialog2" timestamp="1579077018019">
+    <state x="302" y="99" key="CommitChangelistDialog2" timestamp="1579077173631">
       <screen x="0" y="0" width="1400" height="1005" />
     </state>
-    <state x="302" y="99" key="CommitChangelistDialog2/0.0.1400.1005@0.0.1400.1005" timestamp="1579077018019" />
+    <state x="302" y="99" key="CommitChangelistDialog2/0.0.1400.1005@0.0.1400.1005" timestamp="1579077173631" />
     <state width="1354" height="262" key="GridCell.Tab.0.bottom" timestamp="1579076955345">
       <screen x="0" y="0" width="1400" height="1005" />
     </state>
